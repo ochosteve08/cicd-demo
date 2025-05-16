@@ -5,7 +5,7 @@ const app = express();
 
 
 app.get('/', (req, res) => {
-  res.send('Welcome to GitHub Action');
+  res.send('Welcome to GitHub Action!');
 });
 
 
